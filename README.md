@@ -1,7 +1,7 @@
 Brackets Dark Theme
 # Kindfeeling-dark
 
-起動は画像を表示するために少し遅くなります。(Base64デコード処理のためです。)  
+画像を表示するために起動が少し遅くなります。(Base64デコード処理のためです。)  
 Startup is slightly slower to display the image. (This is for Base64 decoding.)  
 
 CSS
