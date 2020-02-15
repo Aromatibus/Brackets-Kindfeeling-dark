@@ -1,0 +1,15 @@
+{
+	"name": "brackets-kindfeeling-dark",
+	"title": "Kind Feeling Dark",
+	"description": "Kind Feeling Dark. Elegant Dark theme.",
+	"homepage": "https://github.com/Aromatibus/brackets-kindfeeling-dark/",
+	"version": "1.0.0",
+	"author": "Aromatibus (https://github.com/Aromatibus/)",
+	"license": "MIT",
+	"theme": {
+		"file": "theme.less",
+		"dark": true,
+		"addModeClass": true
+	},
+	"keywords": ["dark", "kind", "feeling", "Aromatibus"]
+}
